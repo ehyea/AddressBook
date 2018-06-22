@@ -1,0 +1,57 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController didReceiveMemoryWarning]
+-[ViewController btnGetContacts:]
+-[ViewController requestAuthorization]
+-[ViewController fetchContact]
+-[ViewController requestAuthorizationContacts]
+___46-[ViewController requestAuthorizationContacts]_block_invoke
+-[ViewController fetchContactWithContact]
+___41-[ViewController fetchContactWithContact]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[ViewController requestAuthorizationAddressBook]
+___49-[ViewController requestAuthorizationAddressBook]_block_invoke
+-[ViewController fetchContactWithAddressBook]
+-[ViewController showAlert]
+-[ViewController saveAddressBook:]
+-[ViewController checkStringIsNull:]
+-[ViewController tContacts]
+-[ViewController setTContacts:]
+-[ViewController .cxx_destruct]
+_OBJC_CLASS_$_ViewController
+___block_descriptor_tmp
+___block_literal_global
+___block_descriptor_tmp.77
+___block_descriptor_tmp.83
+___block_literal_global.84
+_OBJC_IVAR_$_ViewController._tContacts
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 9.1.0 (clang-902.0.39.1)
+/Users/apple/Documents/WorkSpace/LefengGMSdk/AddressBook/AddressBook/ViewController.m
+/Users/apple/Documents/WorkSpace/LefengGMSdk/AddressBook
+__49-[ViewController requestAuthorizationAddressBook]_block_invoke
+__destroy_helper_block_
+__copy_helper_block_
+__41-[ViewController fetchContactWithContact]_block_invoke
+__46-[ViewController requestAuthorizationContacts]_block_invoke
+_OBJC_CLASS_$_AppDelegate
+/Users/apple/Documents/WorkSpace/LefengGMSdk/AddressBook/AddressBook/main.m
+main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/apple/Documents/WorkSpace/LefengGMSdk/AddressBook/AddressBook/AppDelegate.m
+/Users/apple/Documents/WorkSpace/LefengGMSdk/AddressBook/AddressBook/AppDelegate.h
